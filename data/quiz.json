@@ -1,0 +1,256 @@
+{
+  "questions": [
+    {
+      "question": "Você descobre que um amigo cometeu um erro grave, mas ninguém além de você sabe disso. O que faz?",
+      "answers": {
+        "A": {
+          "text": "Converso com ele e o convenço a assumir a responsabilidade antes que a situação piore.",
+          "points": {"Nêmesis": 4, "Atena": 3, "Zeus": 2, "Hebe": 1}
+        },
+        "B": {
+          "text": "Guardo o segredo por lealdade, acreditando que todos merecem uma segunda chance.",
+          "points": {"Afrodite": 4, "Deméter": 3, "Íris": 2, "Hipnos": 1}
+        },
+        "C": {
+          "text": "Analiso cuidadosamente todas as consequências antes de agir.",
+          "points": {"Atena": 4, "Hécate": 3, "Hades": 2, "Hefesto": 1}
+        },
+        "D": {
+          "text": "Espero o momento ideal para resolver a situação da forma mais eficiente possível.",
+          "points": {"Hermes": 3, "Poseidon": 4, "Tique": 2, "Dionísio": 1}
+        }
+      }
+    },
+    {
+      "question": "Se você recebesse um enorme poder, qual seria sua maior preocupação?",
+      "answers": {
+        "A": {
+          "text": "Usá-lo para proteger aqueles que dependem de mim.",
+          "points": {"Zeus": 4, "Deméter": 3, "Apolo": 2, "Íris": 1}
+        },
+        "B": {
+          "text": "Que esse poder mudasse quem eu realmente sou.",
+          "points": {"Hebe": 4, "Ártemis": 3, "Hipnos": 2, "Afrodite": 1}
+        },
+        "C": {
+          "text": "Que ele caísse nas mãos erradas.",
+          "points": {"Hades": 4, "Hécate": 3, "Nêmesis": 2, "Atena": 1}
+        },
+        "D": {
+          "text": "Descobrir todos os seus limites e possibilidades.",
+          "points": {"Hefesto": 4, "Hermes": 3, "Apolo": 2, "Tique": 1}
+        }
+      }
+    },
+    {
+      "question": "Qual dessas frases mais representa você?",
+      "answers": {
+        "A": {
+          "text": "As pessoas lembram das atitudes, não das palavras.",
+          "points": {"Zeus": 4, "Ares": 3, "Nike": 2, "Nêmesis": 1}
+        },
+        "B": {
+          "text": "Todo problema tem uma solução inteligente.",
+          "points": {"Atena": 4, "Hefesto": 3, "Hermes": 2, "Hécate": 1}
+        },
+        "C": {
+          "text": "Nem toda batalha precisa ser vencida pela força.",
+          "points": {"Deméter": 4, "Afrodite": 3, "Íris": 2, "Apolo": 1}
+        },
+        "D": {
+          "text": "Às vezes é preciso aceitar o desconhecido para crescer.",
+          "points": {"Hades": 3, "Poseidon": 4, "Dionísio": 2, "Tique": 1}
+        }
+      }
+    },
+    {
+      "question": "Durante uma expedição, o grupo se perde e começa a entrar em conflito. Qual é sua atitude?",
+      "answers": {
+        "A": {
+          "text": "Assumo a liderança e organizo todos.",
+          "points": {"Zeus": 4, "Atena": 3, "Nike": 2, "Ares": 1}
+        },
+        "B": {
+          "text": "Tento manter o grupo unido e evitar discussões.",
+          "points": {"Deméter": 4, "Afrodite": 3, "Íris": 2, "Hebe": 1}
+        },
+        "C": {
+          "text": "Procuro caminhos alternativos, mesmo que ninguém concorde comigo.",
+          "points": {"Ártemis": 4, "Hermes": 3, "Poseidon": 3, "Tique": 1}
+        },
+        "D": {
+          "text": "Observo em silêncio até encontrar a melhor oportunidade para agir.",
+          "points": {"Hades": 4, "Hipnos": 3, "Hécate": 2, "Dionísio": 1}
+        }
+      }
+    },
+    {
+      "question": "Se pudesse deixar um legado para o mundo, qual seria?",
+      "answers": {
+        "A": {
+          "text": "Um reino forte, justo e próspero.",
+          "points": {"Zeus": 4, "Nêmesis": 3, "Nike": 2, "Atena": 1}
+        },
+        "B": {
+          "text": "Descobertas que mudariam a vida das pessoas.",
+          "points": {"Hefesto": 4, "Apolo": 3, "Hermes": 2, "Hécate": 1}
+        },
+        "C": {
+          "text": "Pessoas mais felizes e unidas.",
+          "points": {"Afrodite": 4, "Deméter": 3, "Íris": 2, "Hebe": 1}
+        },
+        "D": {
+          "text": "Ensinar que o destino pode ser mudado por quem tem coragem de enfrentá-lo.",
+          "points": {"Poseidon": 4, "Tique": 3, "Hades": 2, "Ártemis": 1}
+        }
+      }
+    },
+    {
+      "question": "Você recebe a missão de recuperar um artefato poderoso escondido em um local extremamente perigoso. Qual é sua estratégia?",
+      "answers": {
+        "A": {
+          "text": "Lidero uma equipe e distribuo funções para aumentar as chances de sucesso.",
+          "points": {"Zeus": 4, "Atena": 3, "Nike": 2, "Deméter": 1}
+        },
+        "B": {
+          "text": "Vou sozinho, confiando apenas nas minhas habilidades e instintos.",
+          "points": {"Ártemis": 4, "Ares": 3, "Hermes": 2, "Poseidon": 3}
+        },
+        "C": {
+          "text": "Pesquiso tudo sobre o local antes de dar o primeiro passo.",
+          "points": {"Hefesto": 4, "Hécate": 3, "Apolo": 2, "Atena": 1}
+        },
+        "D": {
+          "text": "Espero a oportunidade perfeita, mesmo que leve tempo.",
+          "points": {"Hades": 4, "Hipnos": 3, "Nêmesis": 2, "Tique": 1}
+        }
+      }
+    },
+    {
+      "question": "Qual dessas situações faria você se sentir mais realizado?",
+      "answers": {
+        "A": {
+          "text": "Ser lembrado como alguém que mudou a vida de muitas pessoas.",
+          "points": {"Deméter": 4, "Afrodite": 3, "Íris": 2, "Hebe": 1}
+        },
+        "B": {
+          "text": "Conquistar algo que ninguém acreditava ser possível.",
+          "points": {"Nike": 4, "Ares": 3, "Zeus": 2, "Hermes": 1}
+        },
+        "C": {
+          "text": "Descobrir um conhecimento capaz de transformar o mundo.",
+          "points": {"Atena": 4, "Apolo": 3, "Hefesto": 2, "Hécate": 1}
+        },
+        "D": {
+          "text": "Compreender os mistérios da vida e do destino.",
+          "points": {"Hades": 4, "Hécate": 3, "Tique": 2, "Hipnos": 1}
+        }
+      }
+    },
+    {
+      "question": "Se pudesse escolher apenas um princípio para guiar toda a sua vida, qual seria?",
+      "answers": {
+        "A": {
+          "text": "Justiça acima de tudo.",
+          "points": {"Nêmesis": 4, "Zeus": 3, "Atena": 2, "Nike": 1}
+        },
+        "B": {
+          "text": "Liberdade para seguir meu próprio caminho.",
+          "points": {"Ártemis": 4, "Hermes": 3, "Dionísio": 2, "Poseidon": 3}
+        },
+        "C": {
+          "text": "Amor e compaixão sempre vêm em primeiro lugar.",
+          "points": {"Afrodite": 4, "Deméter": 3, "Íris": 2, "Hebe": 1}
+        },
+        "D": {
+          "text": "Todo acontecimento tem um propósito, mesmo que eu ainda não o compreenda.",
+          "points": {"Hades": 4, "Hécate": 3, "Hipnos": 2, "Tique": 1}
+        }
+      }
+    },
+    {
+  "question": "Qual qualidade você mais admira em uma pessoa?",
+  "answers": {
+    "A": {
+      "text": "Coragem para enfrentar qualquer desafio.",
+      "points": {"Ares": 4, "Nike": 3, "Zeus": 2, "Poseidon": 1}
+    },
+    "B": {
+      "text": "Sabedoria para tomar decisões difíceis.",
+      "points": {"Atena": 4, "Apolo": 3, "Hécate": 2, "Hefesto": 1}
+    },
+    "C": {
+      "text": "Bondade e empatia pelos outros.",
+      "points": {"Afrodite": 4, "Deméter": 3, "Hebe": 2, "Íris": 1}
+    },
+    "D": {
+      "text": "Independência para seguir o próprio caminho.",
+      "points": {"Ártemis": 4, "Hermes": 3, "Dionísio": 2, "Tique": 1}
+    }
+  }
+},
+{
+  "question": "Se pudesse dominar uma habilidade extraordinária, qual escolheria?",
+  "answers": {
+    "A": {
+      "text": "Criar invenções revolucionárias.",
+      "points": {"Hefesto": 4, "Atena": 3, "Apolo": 2, "Hermes": 1}
+    },
+    "B": {
+      "text": "Entender os mistérios ocultos do mundo.",
+      "points": {"Hécate": 4, "Hades": 3, "Hipnos": 2, "Tique": 1}
+    },
+    "C": {
+      "text": "Inspirar e unir pessoas.",
+      "points": {"Afrodite": 4, "Íris": 3, "Deméter": 2, "Hebe": 1}
+    },
+    "D": {
+      "text": "Superar qualquer obstáculo.",
+      "points": {"Nike": 4, "Ares": 3, "Zeus": 2, "Poseidon": 1}
+    }
+  }
+},
+{
+  "question": "O que mais te motiva a continuar avançando?",
+  "answers": {
+    "A": {
+      "text": "A busca pela vitória.",
+      "points": {"Nike": 4, "Ares": 3, "Zeus": 2, "Hermes": 1}
+    },
+    "B": {
+      "text": "A descoberta de novos conhecimentos.",
+      "points": {"Apolo": 4, "Atena": 3, "Hefesto": 2, "Hécate": 1}
+    },
+    "C": {
+      "text": "O desejo de proteger quem amo.",
+      "points": {"Deméter": 4, "Afrodite": 3, "Hebe": 2, "Íris": 1}
+    },
+    "D": {
+      "text": "A vontade de explorar o desconhecido.",
+      "points": {"Poseidon": 4, "Ártemis": 3, "Hermes": 2, "Dionísio": 1}
+    }
+  }
+},
+{
+  "question": "Qual dessas forças você acredita ser a mais poderosa?",
+  "answers": {
+    "A": {
+      "text": "A justiça.",
+      "points": {"Nêmesis": 4, "Zeus": 3, "Atena": 2, "Nike": 1}
+    },
+    "B": {
+      "text": "O destino.",
+      "points": {"Tique": 4, "Hades": 3, "Hipnos": 2, "Hécate": 1}
+    },
+    "C": {
+      "text": "O amor.",
+      "points": {"Afrodite": 4, "Deméter": 3, "Hebe": 2, "Íris": 1}
+    },
+    "D": {
+  "text": "A liberdade.",
+  "points": {"Dionísio": 4, "Ártemis": 3, "Hermes": 2, "Poseidon": 1}
+}
+}
+}
+]
+}
